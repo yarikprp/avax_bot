@@ -1,0 +1,18 @@
+# Секретные ключи и настройки
+.env
+
+# Файлы данных и истории
+*.csv
+trade_history.csv
+
+# Логи (если logger.py создает файлы .log)
+*.log
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Окружение (если используете venv)
+venv/
+.venv/
